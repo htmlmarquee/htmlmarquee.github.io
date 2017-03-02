@@ -11,6 +11,8 @@ var pre = "<!DOCTYPE html>\
   <title></title>\
 </head>\
 <body>\
+<marquee style=\"margin: 0 auto;\" width=\"400px\" >Made by <a href=\"https:\/\/sethkranzler.com\">Seth Kranzler</a></marquee>\
+<br>\
 ";
 var post = "\
 </body>\

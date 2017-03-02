@@ -6,3 +6,8 @@ img {
 h1, h2, h3 {
   text-align: center;
 }
+
+p {
+  width: 400px;
+  margin: 0 auto;
+}
